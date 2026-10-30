@@ -1,0 +1,8 @@
+name = "best-dressed-awards"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "best-dressed-votes"
+database_id = "PASTE_DATABASE_ID_HERE"
